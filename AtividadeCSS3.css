@@ -1,0 +1,26 @@
+.card{
+    background-color: #ccc8c1;
+    width: 350px; 
+    height: 300px;
+}
+.card-filho{
+    background-color: #f2450b;
+    width: 60%;
+    height: 70%;
+}
+.card-filho2{
+    color: rgb(23, 7, 22);
+    background-color:#ad416c;
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.card-mae{
+    background-color: rgb(97, 97, 116);
+    height: 30vh;
+}
+.card-filho3{
+    width: 50vh;
+    height: 80%;
+    background-color: rgb(209, 235, 37)
+}
